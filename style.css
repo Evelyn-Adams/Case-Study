@@ -1,0 +1,36 @@
+#heading{
+    font-family: 'Oswald', sans-serif;
+     color:red;
+}
+#HeadPhone,#PerfumeBottle,#Shoes,#TeaCup,#WaterBottle{
+    width: 200;
+
+    background-color: white;
+    
+    margin-right: 450px;
+    
+    margin-top: 50px;
+
+     border-radius: 20px;
+   
+}
+
+#GL,#MN{
+    background-color: white;
+    border-radius: 50px;
+    font-size: 15;
+    height: 30;
+}
+#b{
+    color: red;
+}
+.copy_right_footer{
+    position:fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color:salmon;
+    line-height: 3;
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+  }
